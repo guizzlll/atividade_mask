@@ -1,0 +1,44 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;    
+    margin-top: 100px;
+}
+
+#text{
+    margin-top: 100px;
+}
+
+.form-mask{
+    color: black;
+    width: 300px;
+    height: 250px;
+    margin: auto;   
+    margin-top: 50px;
+    border-radius: 5%;
+}
+
+form{
+    text-align: center;
+    display: block;
+}   
+
+form input{
+    display: block;
+    margin: auto;
+    
+}
+
+form button{
+    margin-top: 10px;
+    width: 59%;
+    height: 25px;
+    color: #fff;
+    background-color: green;
+    border: green;
+    cursor: pointer;
+}
+
